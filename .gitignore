@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+outputs/plots/
+outputs/metrics/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
