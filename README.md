@@ -4,7 +4,7 @@ An interactive web application for analyzing Starbucks menu nutrition data. Uplo
 
 ## 🚀 Try the App
 
-[Streamlit App](https://your-app-name.streamlit.app)
+[Streamlit App](https://starbucks-analyser.streamlit.app)
 
 ---
 
